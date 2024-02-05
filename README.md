@@ -1,4 +1,4 @@
-# RTK Query Guided Project Start
+# RTK Query Guided Project End
 
 ## ✨ Requirements
 
